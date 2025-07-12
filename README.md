@@ -18,3 +18,4 @@ claude should work better
 Add more people to project - more agents as in
 Add structured output
 Add dynamic task creation
+Add agent to create git repo and maintain it
