@@ -78,7 +78,7 @@ crewai run  app.py
 
 This will start a local web server, and you can interact with the application through your browser.
 
-## Generated web application
+## Executing Generated web application
 
 Below are screenshots of the generated web application and its features:
 
