@@ -78,6 +78,32 @@ crewai run  app.py
 
 This will start a local web server, and you can interact with the application through your browser.
 
+## Generated web application
+
+Below are screenshots of the generated web application and its features:
+
+### Create Account
+![Create Account](assets/create_account.png)
+
+### Deposit More Funds
+![Deposit More Funds](assets/2_deposit_more_funds.png)
+
+### Withdraw Some Amount
+![Withdraw Some Amount](assets/3_withdraw_some_amount.png)
+
+### Buy Shares
+![Buy Shares](assets/4_buy_shares.png)
+
+### View Portfolio
+![View Portfolio](assets/5_view_portfolio.png)
+
+### Transaction History
+![Transaction History](assets/6_getting_transaction_history.png)
+
+### Bug: Selling Shares
+![Bug Selling Shares](assets/7_bug_selling_shares.png)
+
+
 ## Customization
 
 You can customize the agents, tasks, and the overall behavior of the crew by modifying the following files:
